@@ -61,15 +61,23 @@ npm run dev
 Create a `.env` file in the root and include the following:
 
 PORT=
+
 MONGODB_URI=
+
 JWT_SECRET=
+
 CLOUDINARY_CLOUD_NAME=
+
 CLOUDINARY_API_KEY=
+
 CLOUDINARY_API_SECRET=
+
 OPENAI_API_KEY=
+
 NODE_ENV=development
 
 
 ## Purpose
 
 CSHelper is designed to support CS majors by giving them a place to study, practice skills, ask questions, and collaborate with others. It provides tools for learning, communication, and coding all in one platform.
+
